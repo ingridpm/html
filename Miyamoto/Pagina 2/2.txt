@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Principales videojuegos desarrollados por Shigeru Miyamoto></title>
+</head>
+<body background="ittt.jpg" text="Black">
+<center><h1><font color="Black" face="Verdana" size
+=200>Principales videojuegos desarrollados por Shigeru Miyamoto</font></h1></center>
+<center><table border="3" bordercolor="#00000" width="79%" bgcolor="White">
+<tr bgcolor="#00000">
+<td><center><font color="White" face="Consolas"><h2>Nombre del Juego</h2></font></center></td>
+<td><center><font color="White" face="Consolas"><h2>Año de Lanzamiento</h2></font></center></td>
+<td><center><font color="White" face="Consolas"><h2>Videoconsola</h2></font></center></td>
+<td><center><font color="White" face="Consolas"><h2>Director</h2></font></center></td>
+<td><center><font color="White" face="Consolas"><h2>  Productor  </h2></font></center></td>
+<td><center><font color="White" face="Consolas"><h2>  Diseñador  </h2></font></center></td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Donkey Kong</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1981</font></center</td>
+<td><center><font color="Black" face="Consolas">Arcade</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Donkey Kong Jr.</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1982</font></center</td>
+<td><center><font color="Black" face="Consolas">Arcade</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Bros</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1983</font></center</td>
+<td><center><font color="Black" face="Consolas">Arcade</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Devil World</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1984</font></center</td>
+<td><center><font color="Black" face="Consolas">Arcade</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Donkey Kong 3</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1984/1986</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Bros</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1985</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1986/1987</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Zelda II: The Adventure of Link</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1987/1988</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Earthbound Zero</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1989</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Bros: The Lost Levels</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1988</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Bros 3</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1988/1990</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>F-Zero</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1990/1991</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario World</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1990/1991</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: A Link to the Past</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1991/1992</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Kart</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1992</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario Paint</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1992</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Wave Race</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1992</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: Link's Awakening</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1992</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Star Fox</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1993</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario All-Stars</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1993</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Yoshi's Safari</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1993</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Kirby's Advenure</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1993</font></center</td>
+<td><center><font color="Black" face="Consolas">Famicom/NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Donkey Kong</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1994</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Stunt Race FX</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1944</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Killer Instinct</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1944</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario World 2: Yoshi's Island</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1995</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mole Mania</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1996</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario RPG</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1996/1997</font></center</td>
+<td><center><font color="Black" face="Consolas">Super Famicom/ Super NES</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario 64</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1996/1997</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Wave Race 64</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1996/1997</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario Kart 64</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1996/1997</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Star Fox 64</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1997</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Yoshi's Story</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1997/1998</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>1080° Snowboarding</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1998</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>F-Zero X</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1998</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: Ocarina of Time</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1998</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>F-Zero Expansion Kit</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1999</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64DD</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario Artist</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1999</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64DD</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Smash Bros</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">1999</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: Majora's Mask</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2000</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Paper Mario</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo 64</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Advance</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Wario Land</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Luigi's Mansion</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Wave Race: Blue Storm</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario Kart: Super Circuit</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Pikimin</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Smash Bros. Melee</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario World: Super Mario Advance 2</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2001</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Doshin the Giant</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2002</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Eternal Darkness: Sanity's Requiem</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2002</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Sunshine</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2002</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Yoshi's Island: Super Mario Advanced 3</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2002</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Metroid Prime</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2002</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Star Fox Adventures</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2002</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: The Wind Waker</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2002/2003</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>F-Zero GX</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2003</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario Golf: Toadstool Tour</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2003</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>F-Zero GP Legend</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2003/2004</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Donkey Konga</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2003</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Pac-Man Vs.</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2003</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: Four Swords Adventures</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2003</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario & Luigi: Superstar Saga</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2003</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Metroid Prime 2: Echoes</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2004</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Pikmin 2</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2004</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Paper Mario: The Thousand-Year Door</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2004</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Donkey Kong Jungle Beat</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2004</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario vs. Donkey Kong</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2004</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario 64 DS</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2004</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo DS</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: The Minish Cap</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2004</font></center</td>
+<td><center><font color="Black" face="Consolas">Game Boy Advance</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Star Fox: Assault</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2005</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Geist</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2005</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Nintendogs</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2005</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Mario Kart DS</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2005</font></center</td>
+<td><center><font color="Black" face="Consolas">Nintendo DS</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Wii Sports</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2006</font></center</td>
+<td><center><font color="Black" face="Consolas">Wii</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>The Legend of Zelda: Twilight Princess</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2006</font></center</td>
+<td><center><font color="Black" face="Consolas">GameCube/Wii</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+<tr>
+<td><center><font color="Black" face="Consolas"><h4>Super Mario Galaxy</h4></font></center</td>
+<td><center><font color="Black" face="Consolas">2007</font></center</td>
+<td><center><font color="Black" face="Consolas">Wii</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+<td><center><font color="Black" face="Consolas">Sí</font></center</td>
+<td><center><font color="Black" face="Consolas">-</font></center</td>
+</tr>
+</table></center>
+
+<br>
+
+<center><table border="0" width="79%">
+<tr>
+<td><audio autoplay src="smb.mp3"></audio></td>
+<td><INPUT type="Image" value=img src="luigi.jpg" width=400 height=250 onClick="history.back()"><td>
+<td><INPUT type="Button" value="Datos generales sobre Shigeru Miyamoto" onClick="history.back()"><td>
+</tr>
+</center></table>
+<br>
+<br>
+<p><center><font color="Black" face="Arial">Ingrid Rossana Pérez Mena - 201602420 - Seccion B</font></center></p>
+</body>
+</html>
